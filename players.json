@@ -1,0 +1,29 @@
+{
+    "players": [
+        {
+            "name": "player1",
+            "rating": 1500,
+            "rd": 350
+        },
+        {
+            "name": "player2",
+            "rating": 1500,
+            "rd": 350
+        },
+        {
+            "name": "player3",
+            "rating": 1500,
+            "rd": 350
+        },
+        {
+            "name": "player4",
+            "rating": 1500,
+            "rd": 350
+        },
+        {
+            "name": "player5",
+            "rating": 1500,
+            "rd": 350
+        }
+    ]
+}

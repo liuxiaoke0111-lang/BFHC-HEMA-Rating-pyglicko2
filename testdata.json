@@ -1,0 +1,75 @@
+{
+    "games": [
+        {
+            "player1": "player1",
+            "player2": "player2",
+            "result": 1,
+            "score1": 9,
+            "score2": 0
+        },
+        {
+            "player1": "player1",
+            "player2": "player3",
+            "result": 1,
+            "score1": 9,
+            "score2": 0
+        },
+        {
+            "player1": "player1",
+            "player2": "player4",
+            "result": 1,
+            "score1": 9,
+            "score2": 0
+        },
+        {
+            "player1": "player1",
+            "player2": "player5",
+            "result": 1,
+            "score1": 9,
+            "score2": 0
+        },
+        {
+            "player1": "player2",
+            "player2": "player3",
+            "result": 1,
+            "score1": 9,
+            "score2": 0
+        },
+        {
+            "player1": "player2",
+            "player2": "player4",
+            "result": 0,
+            "score1": 9,
+            "score2": 9
+        },
+        {
+            "player1": "player2",
+            "player2": "player5",
+            "result": -1,
+            "score1": 0,
+            "score2": 9
+        },
+        {
+            "player1": "player3",
+            "player2": "player4",
+            "result": -1,
+            "score1": 0,
+            "score2": 9
+        },
+        {
+            "player1": "player3",
+            "player2": "player5",
+            "result": 1,
+            "score1": 9,
+            "score2": 0
+        },
+        {
+            "player1": "player4",
+            "player2": "player5",
+            "result": -1,
+            "score1": 0,
+            "score2": 9
+        }
+    ]
+
+}
